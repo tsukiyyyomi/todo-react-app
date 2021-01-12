@@ -2,3 +2,6 @@
   text-decoration: line-through;
   opacity: 0.5;
 }
+.App{
+  background: rgba(73, 73, 146, 0.2);
+}
